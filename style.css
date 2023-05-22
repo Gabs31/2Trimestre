@@ -25,3 +25,9 @@ body {
     height: 100vh;
 }
 
+.container_botao {
+    background-color: var(--botao-azul0);
+    border-radius: spx;
+    padding: lem;
+    color: var(--branco-principal);
+}
